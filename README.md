@@ -13,6 +13,9 @@ Based on a recent test run of an Al-Si specimen:
 * **Tensile Strength (UTS):** $133.56 \text{ MPa}$
 * **Ductility (Elongation):** $11.98\%$
 * **Max Wear Depth:** $296.56 \mu\text{m}$
+### Visualizations
+![Tensile Stress-Strain Plot](tensile_plot.png)
+![Wear Depth Analysis](wear_test_plot.png)
 
 ### AI-Generated Insight
 > "The balance between the measured strength and the substantial elongation strongly suggests that the material has not been extensively cold-worked or rolled, pointing toward a casting or simple ingot processing route." 
